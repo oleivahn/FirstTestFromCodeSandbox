@@ -1,2 +1,0 @@
-# FirstTestFromCodeSandbox
-Created with CodeSandbox
